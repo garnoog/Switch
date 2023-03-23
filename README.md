@@ -1,5 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Figger-2007/SwitchBF/main/KaitunSeriesXBloxFruit"))()
-
 if not game:IsLoaded() then repeat game.Loaded:Wait() until game:IsLoaded() end
 
 _G.Switch_Hub_Series_X = true -- เปิดใช้งาน Series x
